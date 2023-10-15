@@ -12,6 +12,8 @@ This is a decentralized crowdfunding web application that allows users to create
 - Solidity: Smart contract development
 - Blockchain (Ethereum): Decentralized data storage and execution
 
+🔴 You need **Metamask** wallet installed on your chrome as a extension 
+
 ### Usage
 - Create a campaign with a funding goal, deadline, and other details.
 - Contribute to existing campaigns by sending Ether.
